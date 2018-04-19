@@ -1,0 +1,3 @@
+Methods
+
+-Gathered fastas of 5 species from UniProt based on epitope_map.txt
